@@ -13,7 +13,7 @@ I am skilled in Javascript programming using different frameworks and libraries.
   
 ## Reach me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/oussama-ghandour)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' >](https://www.linkedin.com/in/oussamaghandour/)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='25'>](https://medium.com/@oussam92.ing_97719)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/oussama-ghandour)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' >](https://www.linkedin.com/in/oussamaghandour/)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='20'>](https://medium.com/@oussam92.ing_97719)
 
 </div>
 
