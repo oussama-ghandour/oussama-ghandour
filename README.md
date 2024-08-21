@@ -5,7 +5,7 @@ I am skilled in Javascript programming using different frameworks and libraries.
 - 🌱 I’m currently learning AI/Machine learning
 - 💬 Ask me about code, GenAI and tech trends
 
-<h4 align="left">Languages and tools</h4>
+<h4 align="center">Tech Stack</h4>
 <div align="center"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='30'>&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='30'>&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='30'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='30'>&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='30'>&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='30'>&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nestjs.svg' alt='nestjs' height='30'>&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='30'></div>
 
 ## Reach me
