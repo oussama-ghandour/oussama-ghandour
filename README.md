@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Oussama Ghandour
 I am skilled in Javascript programming using different frameworks and libraries. Also, I am looking to work on projects in computer vision and natural language processing using OpenCV, PyTorch, TensorFlow, and NLTK python libraries.
 
-- 👯 I’m looking to collaborate on Backend and Frontend projects
+- 🌐 I’m looking to collaborate on Backend and Frontend projects
 - 🌱 I’m currently learning AI/Machine learning
 - 💬 Ask me about code, GenAI and tech trends
 
